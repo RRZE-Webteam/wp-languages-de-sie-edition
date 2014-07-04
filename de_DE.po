@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Development package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2014-07-01 14:29+0100\n"
+"PO-Revision-Date: 2014-07-04 12:41+0100\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -6609,7 +6609,7 @@ msgstr "Bild einfügen"
 
 #: wp-includes/class-wp-editor.php:168 wp-includes/class-wp-editor.php:1213
 msgid "Visual"
-msgstr "Seitenansicht"
+msgstr "Visuell"
 
 #: wp-includes/default-widgets.php:90 wp-includes/default-widgets.php:251
 #: wp-includes/default-widgets.php:352 wp-includes/default-widgets.php:423
